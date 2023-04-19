@@ -1,0 +1,97 @@
+Name of Mission;Date;Kind of Mission
+Luna 1;Jan 2, 1959;Flyby
+Pioneer 4;Mar 3, 1959;Flyby
+Luna 2;Sep 12, 1959;Impact
+Luna 3;Oct 4, 1959;Probe
+Ranger 1;Aug 23, 1961;Attempted Test Flight
+Ranger 2;Nov 18, 1961;Attempted Test Flight
+Ranger 3;Jan 26, 1962;Attempted Impact
+Ranger 4;Apr 23, 1962;Impact
+Ranger 5;Oct 18, 1962;Attempted Impact
+Luna 4;Apr 2, 1963;Flyby
+Ranger 6;Jan 30, 1964;Impact
+Ranger 7;Jul 28, 1964;Impact
+Ranger 8;Feb 17, 1965;Impact
+Ranger 9;Mar 21, 1965;Impact
+Luna 5;May 9, 1965;Impact
+Luna 6;Jun 8, 1965;Attempted Lander
+Zond 3;Jul 18, 1965;Flyby
+Luna 7;Oct 4, 1965;Impact
+Luna 8;Dec 3, 1965;Impact
+Luna 9;Jan 31, 1966;Lander
+Luna 10;Mar 31, 1966;Orbiter
+Surveyor 1;May 30, 1966;Lander
+Lunar Orbiter 1;Aug 10, 1966;Orbiter
+Luna 11;Aug 24, 1966;Orbiter
+Surveyor 2;Sep 20, 1966;Attempted Lander
+Luna 12;Oct 22, 1966;Orbiter
+Lunar Orbiter 2;Nov 6, 1966;Orbiter
+Luna 13;Dec 21, 1966;Lander
+Lunar Orbiter 3;Feb 4, 1967;Orbiter
+Surveyor 3;Apr 17, 1967;Lander
+Lunar Orbiter 4;May 8, 1967;Orbiter
+Surveyor 4;Jul 14, 1967;Attempted Lander
+Lunar Orbiter 5;Aug 1, 1967;Orbiter
+Surveyor 5;Sep 8, 1967;Lander
+Surveyor 6;Nov 7, 1967;Lander
+Surveyor 7;Jan 7, 1968;Lander
+Luna 14;Apr 7, 1968;Orbiter
+Zond 5;Sep 15, 1968;Return Probe
+Apollo 7;Oct 11, 1968;
+Zond 6;Nov 10, 1968;Return Probe
+Apollo 8;Dec 21, 1968;Crewed Orbiter
+Apollo 9;March 3, 1969;
+Apollo 10;May 18, 1969;Orbiter
+Luna 15;Jul 13, 1969;Orbiter
+Apollo 11;Jul 16, 1969;Crewed Lander
+Zond 7;Aug 7, 1969;Return Probe
+Apollo 12;Nov 14, 1969;Crewed Lander
+Apollo 13;Apr 11, 1970;Crewed Lander (aborted)
+Luna 16;Sep 12, 1970;Sample Return
+Zond 8;Oct 20, 1970;Return Probe
+Luna 17/Lunokhod 1;Nov 10, 1970;Rover
+Apollo 14;Jan 31, 1971;Crewed Lander
+Apollo 15;Jul 26, 1971;Crewed Lander
+Luna 18;Sep 2, 1971;Impact
+Luna 19;Sep 28, 1971;Orbiter
+Luna 20;Feb 14, 1972;Sample Return
+Apollo 16;Apr 16, 1972;Crewed Landing
+Apollo 17;Dec 7, 1972;Crewed Landing
+Luna 21/Lunokhod 2;Jan 8, 1973;Rover
+Luna 22;Jun 2, 1974;Orbiter
+Luna 23;Oct 28, 1974;Lander
+Luna 24;Aug 14, 1976;Sample Return
+Hiten;Jan 24, 1990;Flyby, Orbiter, and Impact
+Clementine;Jan 25, 1994;Orbiter
+AsiaSat 3/HGS-1;Dec 24, 1997;Lunar Flyby
+Lunar Prospector;Jan 7, 1998;Orbiter and Impact
+SMART 1;Sep 27, 2003;Orbiter
+Kaguya (SELENE);Sep 14, 2007;Orbiter
+Chang'e 1;Oct 24, 2007;Orbiter
+Chandrayaan-1;Oct 22, 2008;Orbiter
+Lunar-A;Cancelled;Orbiter and Penetrators
+LRO;Jun 18, 2009;Orbiter
+LCROSS;Jun 18, 2009;Impact
+Chang'e 2;October 1, 2010;Orbiter
+ARTEMIS;2010;Orbiter
+GRAIL;September 8, 2011;Orbiter
+Chang'e 3;;Orbiter
+LADEE;May 2, 2013;Orbiter
+Delta IV-Orion (EFT-1);September, 2014;Orbiter
+SLS-Orion (EM-1);2017;Orbiter
+"Constellation Altair Lander 
+(cancelled)";2018;Lander
+"SELENE-2
+(cancelled)";2018;Orbiter and Lander with Rover
+Chang'e 4;;Lander
+Chandrayaan-2;2019;Orbiter and Lander
+Chang'e 5;2019;Lander
+Luna 25;2020;Lander
+Artemis I;2020;Orbiter
+SELENE-3;2021;Orbiter and Lander with Rover plus sample return ascent vehicle
+Luna 26;2021;Orbiter
+Luna 27;2022;Lander
+Artemis II;2022;Orbiter
+Artemis III;2024;Lander
+Luna 28;2026;Lander
+Luna 29;2028;Lander
